@@ -27,7 +27,7 @@ var (
 	date    = "unknown"
 )
 
-const DefaultURL = "http://localhost:8123"
+const DefaultURL = "http://botissus.mooo.com:8123"
 
 func main() {
 	// seed the rand generator (used for making connection codes)
